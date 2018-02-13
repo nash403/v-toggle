@@ -1,6 +1,6 @@
 # v-toggle
 
-> decription: TODO
+> description: TODO
 
 ## Install
 
@@ -21,7 +21,7 @@ For browser, import `node_modules/v-toggle-directive/dist/v-toggle.js` in your h
 [Live Demo](#) (TODO)
 
 ```html
-  <button v-toggle.someclassname="'propertyNameOnHoldingComponenet'">A button</button>
+  <button v-toggle.someclassname="'propertyNameOnHoldingComponent'">A button</button>
 ```
 
 ### TODO
